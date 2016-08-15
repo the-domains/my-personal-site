@@ -1,0 +1,14 @@
+layout_spectrum: 0.23304014839231968
+typography_spectrum: 0.6227800878696144
+color:
+  brandStrength: 0.6471760699059814
+  lightness: 0.6648403138387948
+  saturation: 0.9807259212248027
+  rhythmicContrast: 0.43631121958605945
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+name: My Personal Site
